@@ -1,7 +1,7 @@
 # Room Makeover Planner
 
 ## Student Name
-Your Name Here
+Gianna Leone
 
 ## App Description
 Room Makeover Planner is a Streamlit app that helps users plan a room redesign from start to finish. Users choose a room type, decor style, and room size and get style tips and room essentials in return. They set a budget, pick a color palette, and build a shopping list of furniture and decor items. As they add items and check them off, the app updates the total cost, the money remaining, a spending chart, and a progress bar showing how much of the makeover is done.
